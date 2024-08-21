@@ -1,6 +1,15 @@
 [
     {
         "role": "chat_acknowledge",
+        "content": "Got it, working on adding a button that says hello world.",
+        "message_id": "guest21082024081725",
+        "timestamp": "21082024081726",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
         "content": "Got it, adding a button that says \"Hello World\".",
         "message_id": "guest21082024081256",
         "timestamp": "21082024081258",
